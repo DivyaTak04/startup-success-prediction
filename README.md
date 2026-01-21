@@ -83,7 +83,6 @@ Why Random Forest?
 - End-to-end ML pipeline (data → model → web app)
 - Real-world Indian dataset usage
 - Clean separation of frontend and backend
-- Resume-ready, production-style project
 
 ---
 
