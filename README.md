@@ -96,10 +96,10 @@ Why Random Forest?
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-**Divya Tak**  
-MCA Student | Full Stack & Machine Learning Enthusiast
+**Divya Tak** **&** **Chesta Tak**
+MCA Students | Full Stack & Machine Learning Enthusiast
 
 ---
 
